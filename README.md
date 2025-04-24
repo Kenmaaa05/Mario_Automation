@@ -6,5 +6,5 @@ This project combines Unity for PCG and OpenCV to automate enemies and other ele
 - `OpenCV_automation/` – Python-based automation and image processing
 - `Unity/` – Game project files
 
-> ⚠️ This repo is not cleaned up for production. It's just a learning/project showcase. This was the academic project for the 5th semester.
-> 
+> [!WARNING]
+> This repo is not cleaned up for production. It's just a learning/project showcase. This was the academic project for the 5th semester.
